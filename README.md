@@ -167,3 +167,7 @@ npm start
 // May o nha
 - Install npm: npm install
 - Start app: npm start
+
+
+
+Data types
