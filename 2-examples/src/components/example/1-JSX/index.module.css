@@ -1,0 +1,25 @@
+.footer {
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+    /* width: 100%; */
+    color: white;
+}
+
+.bg__ccc {
+    background-color: #ccc;
+}
+
+.text__white {
+    color: white;
+}
+
+.item {
+    border-bottom: 1px solid #ccc;
+}
+
+@media only screen and (max-width: 576px){
+    .footer {
+        background-color: red;
+    }
+}

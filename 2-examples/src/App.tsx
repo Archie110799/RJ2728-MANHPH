@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import anh from './assets/images/abc.png'
+import { IMAGES } from "./assets/images/images";
 
 function App() {
   let styles = { 
@@ -13,7 +13,7 @@ function App() {
     <div>
       <h1 style={styles}></h1>
       <h1></h1>
-      <img src={anh}/>
+      <img src={IMAGES.LOGO}/>
     </div>
   );
 }
